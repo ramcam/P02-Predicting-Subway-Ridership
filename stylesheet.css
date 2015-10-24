@@ -21,10 +21,10 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 0 !important;
   margin-bottom: 2rem !important;
   font-weight: 300 !important; }
-h1 { font-size: 4.0rem !important; line-height: 1.2 !important;  letter-spacing: -.1rem !important;}
-h2 { font-size: 3.6rem !important; line-height: 1.25 !important; letter-spacing: -.1rem !important; }
-h3 { font-size: 3.0rem !important; line-height: 1.3 !important;  letter-spacing: -.1rem !important; }
-h4 { font-size: 2.4rem !important; line-height: 1.35 !important; letter-spacing: -.08rem !important; }
+h1 { font-size: 3.0rem !important; line-height: 1.2 !important;  letter-spacing: -.1rem !important;}
+h2 { font-size: 2.4rem !important; line-height: 1.25 !important; letter-spacing: -.1rem !important; }
+h3 { font-size: 2.2rem !important; line-height: 1.3 !important;  letter-spacing: -.1rem !important; }
+h4 { font-size: 2.0rem !important; line-height: 1.35 !important; letter-spacing: -.08rem !important; }
 h5 { font-size: 1.8rem !important; line-height: 1.5 !important;  letter-spacing: -.05rem !important; }
 h6 { font-size: 1.5rem !important; line-height: 1.6 !important;  letter-spacing: 0 !important; }
 
