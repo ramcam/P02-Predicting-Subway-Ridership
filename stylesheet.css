@@ -29,11 +29,11 @@ h5 { font-size: 1.8rem !important; line-height: 1.5 !important;  letter-spacing:
 h6 { font-size: 1.5rem !important; line-height: 1.6 !important;  letter-spacing: 0 !important; }
 
 @media (min-width: 550px) {
-  h1 { font-size: 5.0rem !important; }
-  h2 { font-size: 4.2rem !important; }
-  h3 { font-size: 3.6rem !important; }
-  h4 { font-size: 3.0rem !important; }
-  h5 { font-size: 2.4rem !important; }
+  h1 { font-size: 3.0rem !important; }
+  h2 { font-size: 2.4rem !important; }
+  h3 { font-size: 2.2rem !important; }
+  h4 { font-size: 2.0rem !important; }
+  h5 { font-size: 1.8rem !important; }
   h6 { font-size: 1.5rem !important; }
 }
 
